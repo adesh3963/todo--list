@@ -1,1 +1,1 @@
-web: gunicorn spamclassifier.wsgi --log-file -
+web: gunicorn TodoList.wsgi --log-file -
